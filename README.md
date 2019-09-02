@@ -10,23 +10,23 @@ Project 0 Getting Started
 GPU Compute Capability: 7.5
 
 chrome:\\gpu output:
-![](images/Capture.png)
+![](images/Capture.PNG)
 
 Original Triangle:
-![](images/Triangle1.png)
+![](images/Triangle1.PNG)
 
 Modified Triangle:
-![](images/ModifiedTriangle.png)
+![](images/ModifiedTriangle.PNG)
 
 Build and Run Test:
-![](images/buildTest.png)
+![](images/buildTest.PNG)
 
 Timeline:
-![](images/Timeline.png)
+![](images/Timeline.PNG)
 
 Autos Tab:
-![](images/Autos.png)
+![](images/Autos.PNG)
 
 Warp Info:
-![](images/WarpInfo.png)
+![](images/WarpInfo.PNG)
 
