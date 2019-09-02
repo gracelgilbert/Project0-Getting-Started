@@ -13,20 +13,26 @@ chrome:\\gpu output:
 ![](images/Capture.PNG)
 
 Original Triangle:
+
 ![](images/Triangle1.PNG)
 
 Modified Triangle:
+
 ![](images/ModifiedTriangle.PNG)
 
 Build and Run Test:
+
 ![](images/buildTest.PNG)
 
 Timeline:
+
 ![](images/Timeline.PNG)
 
 Autos Tab:
+
 ![](images/Autos.PNG)
 
 Warp Info:
+
 ![](images/WarpInfo.PNG)
 
