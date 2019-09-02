@@ -10,6 +10,7 @@ Project 0 Getting Started
 GPU Compute Capability: 7.5
 
 chrome:\\gpu output:
+
 ![](images/Capture.PNG)
 
 Original Triangle:
